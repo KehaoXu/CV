@@ -1,0 +1,9 @@
+[submodule "CV-project1"]
+	path = CV-project1
+	url = https://github.com/KehaoXu/CV-project1.git
+[submodule "CV-project2"]
+	path = CV-project2
+	url = https://github.com/KehaoXu/CV-project2.git
+[submodule "CV-project3"]
+	path = CV-project3
+	url = https://github.com/KehaoXu/CV-project3.git
