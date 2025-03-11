@@ -4,13 +4,13 @@ This repository contains multiple computer vision projects.
 
 ## Projects
 
-### [CV-project1](CV-project1)
+### [CV-project1](https://github.com/KehaoXu/CV-project1.git)
 - **Tasks Completed:** Image processing basics, edge detection.
 
-### [CV-project2](CV-project2)
+### [CV-project2](https://github.com/KehaoXu/CV-project2.git)
 - **Tasks Completed:** Feature matching, image stitching.
 
-### [CV-project3](CV-project3)
+### [CV-project3](https://github.com/KehaoXu/CV-project3.git)
 - **Tasks Completed:** Convolutional Neural Networks (CNN), image classification with MNIST.
 
 ## Submodules
